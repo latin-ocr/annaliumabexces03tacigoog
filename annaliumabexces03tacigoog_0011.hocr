@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "annaliumabexces03tacigoog_0011.png"; bbox 0 0 3163 5085; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1097 2199 2212 2438">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1097 2199 2212 2438">
+     <span class='ocr_line' id='line_1_1' title="bbox 1292 2199 2021 2256; baseline 0 -13"><span class='ocrx_word' id='word_1_1' title='bbox 1292 2199 1516 2243; x_wconf 64' lang='lat' dir='ltr'><strong>ntum(</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1554 2199 1840 2256; x_wconf 63' lang='lat' dir='ltr'><strong>rnowmz,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1876 2200 2021 2256; x_wconf 65' lang='lat' dir='ltr'><strong>nm„</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1097 2299 2212 2337; baseline -0.004 0"><span class='ocrx_word' id='word_1_4' title='bbox 1097 2301 1372 2337; x_wconf 66' lang='lat' dir='ltr'><strong>nnuman</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1396 2301 1459 2335; x_wconf 75' lang='grc' dir='ltr'><strong>’.ΙὉ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1482 2300 1587 2335; x_wconf 74' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1609 2300 1911 2336; x_wconf 64' lang='lat' dir='ltr'><strong>numnam!</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1933 2299 1995 2335; x_wconf 69' lang='lat'><strong>0!</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2019 2299 2212 2335; x_wconf 69' lang='lat' dir='ltr'><strong>uxrem)</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1339 2387 1974 2438; baseline 0 -12"><span class='ocrx_word' id='word_1_10' title='bbox 1339 2387 1596 2438; x_wconf 76' lang='lat' dir='ltr'>LONDON,</span> <span class='ocrx_word' id='word_1_11' title='bbox 1630 2387 1974 2428; x_wconf 69' lang='lat' dir='ltr'><strong>mummium</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1267 2484 2043 2524">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1267 2484 2043 2524">
+     <span class='ocr_line' id='line_1_4' title="bbox 1267 2484 2043 2524; baseline 0.001 -1"><span class='ocrx_word' id='word_1_12' title='bbox 1267 2485 1399 2524; x_wconf 69' lang='lat' dir='ltr'><strong>NEW</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1431 2484 1586 2524; x_wconf 68' lang='lat' dir='ltr'>YORK</span> <span class='ocrx_word' id='word_1_14' title='bbox 1620 2485 1742 2524; x_wconf 70' lang='lat' dir='ltr'><strong>AM&gt;</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1777 2484 2043 2524; x_wconf 76' lang='lat' dir='ltr'>TORONTO</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
